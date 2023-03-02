@@ -1,6 +1,6 @@
 ## Personal Project: Computational Intelligence
 
-Hello markers and wanderers, and welcome to my Personal Project around Computational Intelligence. The project report can be found under the */report* directory **(yet to be completed)**.
+Hello markers and wanderers, and welcome to my Personal Project around Computational Intelligence. The project report can be found under the */report* directory.
 
 The entire source code is within the *main.cpp* file. Its only dependencies are the STL library and SQLite. 
 
